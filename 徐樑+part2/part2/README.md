@@ -2,7 +2,7 @@
 
 #### 数据库
 
-使用MySQL数据库，数据库名为myData,表user的结构：
+使用MySQL数据库，数据库名为dataxu,表user的结构：
 
 create table user
 
