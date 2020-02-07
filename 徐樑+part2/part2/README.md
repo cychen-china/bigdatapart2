@@ -26,7 +26,7 @@ create table user
 
 #### CRUD
 
-使用JDBC实现数据表操作，代码写在UserController类中
+使用JDBC实现数据表操作，编写User实体类，业务代码写在UserController类中
 
 新增一个用户：http://localhost:8080/saveUser?userName=aaa&userPassword=123456
 
